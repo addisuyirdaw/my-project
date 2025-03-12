@@ -1,4 +1,2 @@
 # my-project
-i am computer science student 
-i am stromg passionated on web development 
- i need fassionated on video editing and online tutour 
+I am a Computer Science student with a strong passion for Web Development. I am highly motivated to build innovative and scalable web applications. In addition to web development, I have a keen interest in Video Editing and aspire to pursue a career as an Online Tutor.
